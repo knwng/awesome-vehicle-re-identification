@@ -3,7 +3,8 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 
 ## dataset
 * VeRi-776: https://github.com/VehicleReId/VeRidataset
-* VehicleID: http://pkuml.org/resources/pku-vehicleid.html
+* PKU-VehicleID: http://pkuml.org/resources/pku-vehicleid.html
+* PKU-VD: http://pkuml.org/resources/pku-vds.html
 * VehicleReId: https://medusa.fit.vutbr.cz/traffic/datasets/
 
 ## paper
@@ -13,3 +14,4 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf
 3. Vehicle Re-Identification for Automatic Video Traffic Surveillance
     http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf
+4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos
