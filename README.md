@@ -13,7 +13,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
 2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals
-    * Shen Y, Xiao T, Li H, et al. Learning Deep Neural Networks for Vehicle Re-ID with Visual-spatio-temporal Path Proposals[J]. arXiv preprint arXiv:1708.03918, 2017.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
+    * Shen Y, Xiao T, Li H, et al. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1900-1909.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
 
 3. Vehicle Re-Identification for Automatic Video Traffic Surveillance
     * Zapletal D, Herout A. Vehicle re-identification for automatic video traffic surveillance[C]//Computer Vision and Pattern Recognition Workshops (CVPRW), 2016 IEEE Conference on. IEEE, 2016: 1568-1574.[[pdf]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
