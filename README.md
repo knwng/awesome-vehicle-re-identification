@@ -6,6 +6,8 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 * PKU-VehicleID [[Project]](http://pkuml.org/resources/pku-vehicleid.html) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 * PKU-VD [[Project]](http://pkuml.org/resources/pku-vds.html) [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
 * VehicleReId [[Project]](https://medusa.fit.vutbr.cz/traffic/datasets/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
+* PKU-Vehicle[[Project]](http://59.110.216.11/html/) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8265213/)
+* CompCars[[Project]](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)
 
 ## paper
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
