@@ -50,3 +50,11 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 13. Deep hashing with multi-task learning for large-scale instance-level vehicle search
     * Liang D, Yan K, Wang Y, et al. Deep hashing with multi-task learning for large-scale instance-level vehicle search[C]//Multimedia & Expo Workshops (ICMEW), 2017 IEEE International Conference on. IEEE, 2017: 192-197.[[paper]](https://ieeexplore.ieee.org/abstract/document/8026274/)
 
+14. Unsupervised Vehicle Re-Identification using Triplet Networks
+    * Antonio Marin-Reyes P, Palazzi A, Bergamini L, et al. Unsupervised Vehicle Re-Identification Using Triplet Networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 166-171. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
+    
+15. Vehicle Re-Identification with the Space-Time Prior
+    * Wu C W, Liu C T, Chiang C E, et al. Vehicle re-identification with the space-time prior[C]//CVPR Workshop (CVPRW) on the AI City Challenge. 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)
+    
+16. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification
+    * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
