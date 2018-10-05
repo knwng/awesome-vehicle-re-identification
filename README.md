@@ -58,3 +58,6 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     
 16. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification
     * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
+
+17. Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and
+    semantic features * Tang, Z. et al. (2018). NVIDIA AI City Challenge Workshop at CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
