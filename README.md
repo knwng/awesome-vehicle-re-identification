@@ -11,8 +11,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 
 ## paper
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
-    * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387.
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+    * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
 2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals
     * Shen Y, Xiao T, Li H, et al. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1900-1909.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
@@ -60,4 +59,5 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
 
 17. Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and
-    semantic features * Tang, Z. et al. (2018). NVIDIA AI City Challenge Workshop at CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
+    semantic features
+    * Tang, Z. et al. (2018). NVIDIA AI City Challenge Workshop at CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
