@@ -27,10 +27,12 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 5. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification
     * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
 
+6. Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features
+    * Tang, Z. et al. (2018). NVIDIA AI City Challenge Workshop at CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)
+
 ### ICCV
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
-    * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387.
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+    * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
 2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals
     * Shen Y, Xiao T, Li H, et al. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1900-1909.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
@@ -91,11 +93,3 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 
 2. Vehicle re-identification by fusing multiple deep neural networks
     * Cui C, Sang N, Gao C, et al. Vehicle re-identification by fusing multiple deep neural networks[C]//Image Processing Theory, Tools and Applications (IPTA), 2017 Seventh International Conference on. IEEE, 2017: 1-6.[[paper]](https://ieeexplore.ieee.org/abstract/document/8310090/)
-
-
-
-
-    
-
-    
-
