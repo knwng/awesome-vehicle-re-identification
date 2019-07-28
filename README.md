@@ -9,6 +9,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 * PKU-Vehicle[[Project]](http://59.110.216.11/html/) [[pdf]](https://ieeexplore.ieee.org/abstract/document/8265213/)
 * CompCars[[Project]](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)
 * Vehicle-1M[[Project]](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
+* VRIC [[Project]](https://qmul-vric.github.io/) [[pdf]](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)
 
 ## paper
 ### CVPR
